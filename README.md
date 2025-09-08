@@ -20,10 +20,8 @@
 <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" style="padding:10px; background:white; border-radius:8p
 </div>
 
-
-
+  
 ###
-
 
 <h2 align="left">Project by Tools</h2>
 
