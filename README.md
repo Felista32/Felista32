@@ -29,15 +29,15 @@
 
 <div align="left">
 <div style="display:flex; flex-direction:column; gap:20px; align-items:flex-start;">
-  <a href="https://github.com/Felista32/Excel-Projects" style="text-align:center; text-decoration:none; color:black;">
+  <a href="https://github.com/Felista32/topic/Excel" style="text-align:center; text-decoration:none; color:black;">
     <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" height="40" alt="excel logo" style="padding:10px; background:white; border-radius:8px;" />
     <div><b>Excel Projects</b></div>
   </a>
-  <a href="https://github.com/Felista32/PowerBI-Projects" style="text-align:center; text-decoration:none; color:black;">
+  <a href="https://github.com/Felista32/topic/PowerBI" style="text-align:center; text-decoration:none; color:black;">
     <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" height="40" alt="power bi logo" style="padding:10px; background:white; border-radius:8px;" />
     <div><b>Power BI Projects</b></div>
   </a>
-  <a href="https://github.com/Felista32/SQL-Projects" style="text-align:center; text-decoration:none; color:black;">
+  <a href="https://github.com/Felista32/topic/SQL" style="text-align:center; text-decoration:none; color:black;">
     <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" style="padding:10px; background:white; border-radius:8px;" />
     <div><b>SQL Projects</b></div>
   </a>
