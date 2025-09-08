@@ -31,13 +31,13 @@
 
 <div align="left">
 <div style="display:flex; flex-direction:column; gap:15px; align-items:flex-start;">
-  <a href="https://github.com/topics/Excel">
+  <a href="https://github.com/Felista32/topics/Excel">
     <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" height="40" alt="Excel Projects" style="padding:10px; background:white; border-radius:8px;" />
   </br>
-  <a href="https://github.com/topics/PowerBi">
+  <a href="https://github.com/Felista32/topics/PowerBi">
     <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" height="40" alt="Power Bi Projects" style="padding:10px; background:white; border-radius:8px;" />
   </br>
-  <a href="https://github.com/topics/SQL">
+  <a href="https://github.com/Felista32/topics/SQL">
     <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="SQL Projects" style="padding:10px; background:white; border-radius:8px;" />
   </br>
 </div>
